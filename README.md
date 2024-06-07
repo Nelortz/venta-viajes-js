@@ -1,6 +1,6 @@
 # Aplicación de Venta de Viajes en JavaScript
 
-Link para ver resultado: [APLICACION VENTA VIAJES](https://venta-viajes-curso-javascript.netlify.app/)
+Link para ver resultado: [APLICACION VENTA VIAJES](https://venta-viaje-js.netlify.app/)
 
 Aplicación de conceptos en el cual denota el proceso de creación de una aplicación de venta de viajes utilizando JavaScript. La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asociados.
 
